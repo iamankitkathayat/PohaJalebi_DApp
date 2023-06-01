@@ -1,13 +1,12 @@
-# Sample Hardhat Project
+# PohaJalebi DApp
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+The "Poha Jalebi DApp" is a blockchain-based application integrated with React.js that enables users to purchase Poha Jalebi, a traditional Indian dish, with transparent and accountable transactions. It leverages blockchain's decentralization and immutability to create memos for each purchase, ensuring secure and seamless experiences for users.
 
-Try running some of the following tasks:
+Tech stack used:
+Solidity,
+Metamask,
+Hardhat,
+React.js
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Commands :
+"npm run dev" in client folder
